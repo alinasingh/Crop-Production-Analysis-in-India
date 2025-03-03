@@ -1,7 +1,7 @@
 # Crop-Production-Analysis-in-India
 This project analyzed Crop Production in India, focusing on crop production trends by year, season, area, and name of state &amp; district.
 
-https://i.gifer.com/EyEy.gif
+![Description](https://i.gifer.com/EyEy.gif)
 
 
 ### Introduction
@@ -27,7 +27,16 @@ https://i.gifer.com/EyEy.gif
 - NumPy
 - Malplot, Seaborn
 
-### Conclusion
+### Uni-Varate Analysis:
+
+- **State_Name:** 33 Names including Union territories. The top states contributing to the dataset are Uttar Pradesh, Madhya Pradesh, and Karnataka.
+- **District_Name:** 646 districts are represented in the dataset and the Top contributors are Tumkur, Belgaum, and Bijapur from Karnataka
+- **Crop_Year:** Dataset represents data for 19 years from 1997 to 2015 and maximum data from 2003, 2002 & 2007
+- **Season:** We see six seasons with maximum data from Kharif, Rabi, and the Whole year
+- **Crop:** We data for 124 different crops with top occurrence from Rice, Maize, and Moong(Green Gram)
+- **Area:** Huge margin area used for production from 1 to 8580100 unit area. Distribution is highly right-skewed due to a lot of outliers.
+- **Production:** Production value ranges from 0 to 1.25e+09 and Distribution is highly right skewed due to a lot of outliers.
+
 
 
 
