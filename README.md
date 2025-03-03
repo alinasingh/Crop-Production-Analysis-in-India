@@ -35,7 +35,21 @@ This project analyzed Crop Production in India, focusing on crop production tren
 - **Season:** We see six seasons with maximum data from Kharif, Rabi, and the Whole year
 - **Crop:** We data for 124 different crops with top occurrence from Rice, Maize, and Moong(Green Gram)
 - **Area:** Huge margin area used for production from 1 to 8580100 unit area. Distribution is highly right-skewed due to a lot of outliers.
-- **Production:** Production value ranges from 0 to 1.25e+09 and Distribution is highly right skewed due to a lot of outliers.
+- **Production:** Production value ranges from 0 to 1.25e+09 and Distribution is highly right-skewed due to a lot of outliers.
+
+
+### Bi-Varate Analysis:
+- State_Name Vs Production: The top states are Kerala, Andhra Pradesh, and Tamil Nadu
+
+### Visualization is done on:
+- **Crop-wise Production status:** Production-wise, the top crop types are Coconut, sugarcane, and Rice.
+- **Crop-wise Area status:** Area-wise, the top crop types are Rice, Wheat, and Cotton.
+- **Year-wise Production Status:** Total Production hit a peak in the years 2011 and 2013.
+- **Year-wise Area Status:** Toral Area hit a peak in the years 1997 and 1998
+- **Season-wise Production Status:** The top crop categories that show high production values are Whole Year(Annual growing plants), Kharif, and Rabi crops. It clearly shows these crops are heavily dependent on seasonal monsoons.
+- **Season-wise Area Status:** The top crop categories that show high production values are Kharif, Rabi, and Whole Year crops. It clearly shows these crops are heavily dependent on seasonal monsoons.
+- 
+
 
 ### Conclusion
 - This project aims to provide valuable insights into the complex dynamics of crop production in India. By analyzing the various factors influencing this sector, we can gain a deeper understanding of its role in the country's economy and the lives of its farmers. Through meticulous data analysis and visualization, we hope to shed light on both traditional agricultural practices and the modern techniques shaping India's crop production landscape.
