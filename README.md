@@ -37,7 +37,8 @@ This project analyzed Crop Production in India, focusing on crop production tren
 - **Area:** Huge margin area used for production from 1 to 8580100 unit area. Distribution is highly right-skewed due to a lot of outliers.
 - **Production:** Production value ranges from 0 to 1.25e+09 and Distribution is highly right skewed due to a lot of outliers.
 
-
+### Conclusion
+- This project aims to provide valuable insights into the complex dynamics of crop production in India. By analyzing the various factors influencing this sector, we can gain a deeper understanding of its role in the country's economy and the lives of its farmers. Through meticulous data analysis and visualization, we hope to shed light on both traditional agricultural practices and the modern techniques shaping India's crop production landscape.
 
 
 
