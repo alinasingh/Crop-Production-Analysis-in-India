@@ -1,7 +1,7 @@
 # Crop-Production-Analysis-in-India
 This project analyzed Crop Production in India, focusing on crop production trends by year, season, area, and name of state &amp; district.
 
-![Description](https://i.gifer.com/EyEy.gif)
+![Description](https://github.com/alinasingh/Crop-Production-Analysis-in-India/blob/main/EyEy.gif?raw=true)
 
 
 ### Introduction
